@@ -1,0 +1,24 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: gilroy;
+  background-color: slategray;
+}
+
+html, body, #root{
+  height: 100%;
+  width: 100%;
+}
+
+.d1{
+  border: 2px double greenyellow;
+}
+
+.d2{
+  border: 2px red dashed;
+}
+
+.d3{
+  border: 3px solid yellow;
+}

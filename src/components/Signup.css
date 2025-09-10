@@ -1,0 +1,73 @@
+/* Container for the entire form */
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #b3adad;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input{
+    background-color: white;
+}
+
+/* Row wrapper */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+  align-items: center;
+}
+
+/* Label column (25% width) */
+.col-25 {
+  flex: 0 0 25%;
+  max-width: 25%;
+  font-weight: 600;
+  padding-right: 10px;
+}
+
+/* Input/select/checkbox column (75% width) */
+.col-75 {
+  flex: 1;
+}
+
+/* Full-width inputs and selects */
+input[type="text"],
+input[type="password"],
+select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ffffff;
+  border-radius: 6px;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+
+/* Inline layout for radio buttons and checkboxes */
+.form-inline {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.form-inline label {
+  margin-right: 10px;
+}
+
+/* Submit button styling */
+input[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 24px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
