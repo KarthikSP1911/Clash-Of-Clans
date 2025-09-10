@@ -7,6 +7,9 @@ This project showcases responsive design, cinematic scroll effects, a custom car
 
 ---
 
+## 🚀 Demo
+![Demo](coc.gif)
+
 ## 🚀 Features
 
 - ⚔️ **Hero Section** with Clash of Clans branding and dynamic animations
