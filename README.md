@@ -241,4 +241,4 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 
 ---
 
-*Built with ❤️ by [Karthik SP](https://github.com/KarthikSP1911)*
+*Built with ❤️ by [Karthik S_Poojary](https://github.com/KarthikSP1911)*
